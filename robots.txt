@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pocedohahici.b-cdn.net/sitemap.xml
